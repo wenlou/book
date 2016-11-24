@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - testdb@localhost" uuid="59438519-2869-44d4-b748-30b9fc07e685">
+      <database-info product="MySQL" version="5.7.14-log" jdbc-version="3.0" driver-name="MySQL-AB JDBC Driver" driver-version="mysql-connector-java-5.0.8 ( Revision: ${svn.Revision} )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>testdb:</introspection-scope>
+      <resolve-scope>testdb:</resolve-scope>
+    </data-source>
+    <data-source name="Django default" uuid="61059b49-ca4a-42b9-a92f-7cac72dd6a91">
+      <database-info product="MySQL" version="5.7.14-log" jdbc-version="3.0" driver-name="MySQL-AB JDBC Driver" driver-version="mysql-connector-java-5.0.8 ( Revision: ${svn.Revision} )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <introspection-scope>testdb:</introspection-scope>
+      <resolve-scope>testdb:</resolve-scope>
+    </data-source>
+  </component>
+</project>
